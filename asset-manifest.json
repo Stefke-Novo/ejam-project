@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ejam-project/static/css/main.2ccc0be7.css",
+    "main.js": "/ejam-project/static/js/main.3e0d4a47.js",
+    "static/js/496.e0aeba99.chunk.js": "/ejam-project/static/js/496.e0aeba99.chunk.js",
+    "index.html": "/ejam-project/index.html",
+    "main.2ccc0be7.css.map": "/ejam-project/static/css/main.2ccc0be7.css.map",
+    "main.3e0d4a47.js.map": "/ejam-project/static/js/main.3e0d4a47.js.map",
+    "496.e0aeba99.chunk.js.map": "/ejam-project/static/js/496.e0aeba99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ccc0be7.css",
+    "static/js/main.3e0d4a47.js"
+  ]
+}
