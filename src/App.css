@@ -51,6 +51,8 @@
   display: flex;
   gap:40px;
   background-color: #FAFAFA;
+  padding: 40px;
+  border-radius:10px;
 }
 .left{
   display: flex;
