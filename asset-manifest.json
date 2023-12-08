@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ejam-project/static/css/main.bf7d25ff.css",
+    "main.css": "/ejam-project/static/css/main.967a5f0a.css",
     "main.js": "/ejam-project/static/js/main.d57ffd4d.js",
     "static/js/496.e0aeba99.chunk.js": "/ejam-project/static/js/496.e0aeba99.chunk.js",
     "index.html": "/ejam-project/index.html",
-    "main.bf7d25ff.css.map": "/ejam-project/static/css/main.bf7d25ff.css.map",
+    "main.967a5f0a.css.map": "/ejam-project/static/css/main.967a5f0a.css.map",
     "main.d57ffd4d.js.map": "/ejam-project/static/js/main.d57ffd4d.js.map",
     "496.e0aeba99.chunk.js.map": "/ejam-project/static/js/496.e0aeba99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf7d25ff.css",
+    "static/css/main.967a5f0a.css",
     "static/js/main.d57ffd4d.js"
   ]
 }
