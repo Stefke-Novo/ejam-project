@@ -354,7 +354,7 @@
   .logos>img,.logos>div>img{
     height: 36px;
   }
-  .logos, .margin{
+  .logos, .main{
     margin-inline: 80px;
   }
   .free-shipping>div:nth-child(2){
@@ -390,7 +390,7 @@
     width:80px;
     height:80px;
   }
-  .logos, .margin{
+  .logos, .main{
     margin-inline: 20px;
   }
   .free-shipping>div:nth-child(2){
