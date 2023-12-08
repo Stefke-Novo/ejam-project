@@ -60,10 +60,10 @@ function App() {
         </Swiper>
       </div>
       <div className="logos">
-        <img src="/Clarifion.png" alt="" />
+        <img src="/ejam-project/Clarifion.png" alt="" />
         <div>
-          <img src="/McAfee.png" alt="" />
-          <img src="/Nortion.png" alt="" />
+          <img src="/ejam-project/McAfee.png" alt="" />
+          <img src="/ejam-project/Nortion.png" alt="" />
         </div>
       </div>
       <div className="main">
@@ -72,33 +72,33 @@ function App() {
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing </p>
           <div className="options">
             <div>
-              <img src="/Checked.png" alt="" />
+              <img src="/ejam-project/Checked.png" alt="" />
               <p>Cart review</p>
             </div>
             <div>
-              <img src="/Checked.png" alt="" />
+              <img src="/ejam-project/Checked.png" alt="" />
               <p>Checkout</p>
             </div>
             <div>
-              <img src="/Tree.png" alt="" />
+              <img src="/ejam-project/Tree.png" alt="" />
               <p>
                 <b>Special offer</b>
               </p>
             </div>
             <div>
-              <img src="/Four.png" alt="" />
+              <img src="/ejam-project/Four.png" alt="" />
               <p>Conformation</p>
             </div>
           </div>
         </div>
         <div className="last">
           <div className="right">
-            <img className="picture" src="/Picture.png" alt="" />
+            <img className="picture" src="/ejam-project/Picture.png" alt="" />
             <div>
               <div className='account'>
-                <img src='/avatar.png' alt=''/>
+                <img src='/ejam-project/avatar.png' alt=''/>
                 <div>
-                  <img src='/Stars.png' alt=''/>
+                  <img src='/ejam-project/Stars.png' alt=''/>
                   <div>
                     <p>Kent T.</p>
                     <Icon icon="fluent:checkmark-starburst-20-filled" color='#5BB59A'/>
@@ -114,9 +114,9 @@ function App() {
               <span>ONE TIME ONLY</span> special price for 6 extra Clarifion for
               only <span>$14 each</span> ($84.00 total!)
             </p>
-            <img className="picture1" src="/Picture.png" alt="" />
+            <img className="picture1" src="/ejam-project/Picture.png" alt="" />
             <div className="phone">
-              <img src="/Clarifion-phone.png" alt=""></img>
+              <img src="/ejam-project/Clarifion-phone.png" alt=""></img>
               <div>
                 <div>
                   <p>Clarifion Air Ionizer</p>
@@ -127,7 +127,7 @@ function App() {
                     <p className="new-value">$84</p>
                   </div>
                 </div>
-                <img src="/Stars.png" alt="" />
+                <img src="/ejam-project/Stars.png" alt="" />
                 <div className="storage">
                   <input type="radio" />
                   <p>12 left in stock</p>
@@ -140,26 +140,26 @@ function App() {
             </div>
             <div className="tree-options">
               <div>
-                <img src="/tick-circle.png" alt="" />
+                <img src="/ejam-project/tick-circle.png" alt="" />
                 <p>
                   Negative Ion Technology may <span>help with allergens</span>
                 </p>
               </div>
               <div>
-                <img src="/tick-circle.png" alt="" />
+                <img src="/ejam-project/tick-circle.png" alt="" />
                 <p>
                   Designed for <span>air rejuvenation</span>
                 </p>
               </div>
               <div>
-                <img src="/tick-circle.png" alt="" />
+                <img src="/ejam-project/tick-circle.png" alt="" />
                 <p>
                   <span>Perfect for every room</span> in all types of places.
                 </p>
               </div>
             </div>
             <div className="special-offer">
-              <img src="/Percentage.png" alt="" />
+              <img src="/ejam-project/Percentage.png" alt="" />
               <p>
                 Save <span>53%</span> and get <span>6 extra Clarifision</span>{" "}
                 for only <span>$14 Each.</span>
@@ -178,18 +178,18 @@ function App() {
                 </div>
               </div>
               <div className='pay'>
-                <img src="/Visa.png" alt="" />
-                <img src="/Google-pay.png" alt="" />
-                <img src="/PayPal.png" alt="" />
-                <img src="/Master-card.png" alt="" />
-                <img src="/Google-pay-1.png" alt="" />
-                <img src="/Apple-pay.png" alt="" />
-                <img src="/Amex.png" alt="" />
+                <img src="/ejam-project/Visa.png" alt="" />
+                <img src="/ejam-project/Google-pay.png" alt="" />
+                <img src="/ejam-project/PayPal.png" alt="" />
+                <img src="/ejam-project/Master-card.png" alt="" />
+                <img src="/ejam-project/Google-pay-1.png" alt="" />
+                <img src="/ejam-project/Apple-pay.png" alt="" />
+                <img src="/ejam-project/Amex.png" alt="" />
               </div>
             </div>
             <p className="no-thanks">NO THANKS, I DON'T WANT THIS.</p>
             <div className="satisfaction">
-              <img src="/Satisfaction.png" alt="" />
+              <img src="/ejam-project/Satisfaction.png" alt="" />
               <p>
                 If you are not completely thrilled with your Clarifion - We have
                 a <span>30 day satisfaction guarantee.</span> Please refer to
