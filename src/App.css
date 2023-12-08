@@ -50,6 +50,7 @@
 .last{
   display: flex;
   gap:40px;
+  background-color: #FAFAFA;
 }
 .left{
   display: flex;
